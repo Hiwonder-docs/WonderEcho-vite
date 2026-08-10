@@ -1,6 +1,6 @@
-# WonderEcho Documentation
+# WonderCam Documentation
 
-This repository contains the WonderEcho VitePress documentation site. The
+This repository contains the WonderCam VitePress documentation site. The
 documentation source files are Markdown files under `docs/docs/`.
 
 ## Local development
@@ -19,7 +19,7 @@ npm run docs:build
 npm run docs:stage-main
 ```
 
-The staged production files are generated in `projects/WonderEcho/en/latest/`.
+The staged production files are generated in `projects/WonderCam/en/latest/`.
 
 ## GitHub Pages deployment
 
@@ -30,11 +30,11 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://hiwonder-docs.github.io/WonderEcho-vite/projects/WonderEcho/en/latest/
+https://hiwonder-docs.github.io/WonderCam-vite/projects/WonderCam/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
 
 ```text
-https://wiki-test.hiwonder.com/projects/WonderEcho/en/latest/
+https://wiki-test.hiwonder.com/projects/WonderCam/en/latest/
 ```
